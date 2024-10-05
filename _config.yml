@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Nimit Rana"
-  avatar           : "profile.jpg"
+  avatar           : "nrana.jpg" #"profile.jpg"
   bio              : "Lecturer at University of York"
   location         : 
   employer         : "University of York"
