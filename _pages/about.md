@@ -44,7 +44,7 @@ I obtained an MSc in Mathematical Sciences from <a href="https://maths.iisertvm.
 
 
 <div class="news-section">
-  <h3>📰 News</h3>
+  <h3>News</h3>
   <ul>
     <li><strong>July 2025</strong> – Gave a talk at the Stochastic PDEs conference in Berlin.</li>
   </ul>
