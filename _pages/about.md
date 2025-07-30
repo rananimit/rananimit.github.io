@@ -33,11 +33,10 @@ I am a Lecturer in the Department of Mathematics at the <a href="https://www.yor
 </p>
 
 <p>
-My research lies at the intersection of stochastic analysis, partial differential equations, and machine learning. I focus on classical and singular stochastic (geometric) PDEs,with particular interest in their role within mathematical physics and fluid dynamics. In parallel, I explore stochastic control, reinforcement learning, and deep learning methods for modeling high-dimensional and nonlinear dynamical systems. I also apply these tools in quantitative finance, to develop data-driven asset pricing models that more accurately capture real-world market behavior and enhance practical decision-making. 
+My research sits at the intersection of probability theory, stochastic analysis, rough path theory, and machine learning. I am particularly interested in the theoretical and algorithmic aspects of classical and singular stochastic partial differential equations, especially those emerging from problems in mathematical physics and fluid dynamics. In parallel, I apply stochastic optimal control, reinforcement learning, and rough path methods to quantitative finance, with the goal of developing data-driven models that more effectively capture the complexity of real-world markets and provide actionable insights for risk management, portfolio optimization, and decision-making.
 </p>
 
 <p>
-I obtained an MSc in Mathematical Finance from IISER TVM, India, followed by a PhD in Stochastic Geometric Partial Differential Equations at the University of York, UK. Subsequently, I held research associate positions at the Universität Bielefeld, Germany, and Imperial College London, UK.
-</p>
+I obtained an MSc by Research in Mathematical Sciences from IISER TVM, India, followed by a PhD in stochastic (geometric) PDEs at the University of York, UK, under the supervision of <a href="https://www.york.ac.uk/maths/people/zdzislaw-brzezniak/" target="_blank">Zdzislaw Brzezniak</a>. I subsequently held research associate positions at Universität Bielefeld, Germany, in the research group of <a href="https://ekvv.uni-bielefeld.de/pers_publ/publ/PersonDetail.jsp?personId=106484011&lang=EN" target="_blank">Martina Hofmanova</a>, and later at Imperial College London, UK, in the group of <a href=" https://www.hairer.org/" target="_blank">Martin Hairer</a>.</p> 
 
 </div>
