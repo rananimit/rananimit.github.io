@@ -29,7 +29,7 @@ My research lies at the intersection of stochastic analysis, partial differentia
 </p>
 
 <p>
-I obtained an MSc in Mathematical Finance from IISER TVM, India, followed by a PhD in Stochastic Geometric Partial Differential Equations at the University of York, UK. Subsequently, I worked as a research associate at the Universität Bielefeld, Germany, and Imperial College London, UK. 
+I obtained an MSc in Mathematical Finance from IISER TVM, India, followed by a PhD in Stochastic Geometric Partial Differential Equations at the University of York, UK. Subsequently, I held research associate positions at the Universität Bielefeld, Germany, and Imperial College London, UK.
 </p>
 
 </div>
