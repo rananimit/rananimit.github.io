@@ -19,7 +19,10 @@ redirect_from:
 
 a {
   text-decoration: none !important;
-  color: inherit;
+  border-bottom: none !important;
+  box-shadow: none !important;
+  color: inherit !important;
+  cursor: pointer;
 }
 </style>
 
