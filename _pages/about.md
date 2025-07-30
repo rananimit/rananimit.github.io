@@ -21,7 +21,7 @@ a {
   text-decoration: none !important;
   border-bottom: none !important;
   box-shadow: none !important;
-  color: inherit !important;
+  color: #D35400;
   cursor: pointer;
 }
 </style>
