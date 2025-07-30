@@ -16,6 +16,11 @@ redirect_from:
   padding: 0 20px;
   box-sizing: border-box;
 }
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
 </style>
 
 <div class="justified">
