@@ -20,7 +20,7 @@ author_profile: true
 <ol reversed>
 <li><p>A. Goswami and N. Rana, A market resilient data-driven approach to option pricing, submitted, 2024. <a href="https://arxiv.org/abs/2409.08205">arxiv</a>
 <li><p>Z. Brzeźniak, J. Jendrej and N. Rana, Wave maps in dimension 1+1 with an external forcing, submitted, 2024. <a href="https://arxiv.org/abs/2404.09195">arxiv</a>
-<li><p>B. Gess, S. Kassing and N. Rana, Stochastic Modified Flows for Riemannian Stochastic Gradient Descent, submitted, 2024. Accepted in SIAM J. Control Optim. for publication. <a href="https://arxiv.org/abs/2402.03467">arxiv</a>
+<li><p>B. Gess, S. Kassing and N. Rana, Stochastic Modified Flows for Riemannian Stochastic Gradient Descent, submitted, 2024. Accepted in SIAM J. Control Optim. (2024). <a href="https://arxiv.org/abs/2402.03467">arxiv</a>
 <li><p>M. Gubinelli, M. Hofmanová and N. Rana, Decay of correlations in stochastic quantization: the exponential Euclidean field in two dimensions,  Stoch. Partial Differ. Equ. Anal. Comput. (2024). <a href="https://arxiv.org/abs/2305.12017">arxiv</a>
 <li><p>A. Gumber, N. Rana, J. Toft and R. Üster, Pseudo-differential calculi and entropy estimates with Orlicz modulation spaces, J. Funct. Anal. (2024) <a href="https://arxiv.org/abs/2304.09558">arxiv</a>
 <li><p>F. Bechtold, F. A. Harang and N.Rana, Non-linear Young equations in the plane and pathwise regularization by noise for  the stochastic wave equation, Stoch. Partial Differ. Equ. Anal. Comput. (2024). <a href="https://arxiv.org/abs/2206.05360">arxiv</a>
