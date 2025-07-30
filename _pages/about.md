@@ -33,7 +33,7 @@ I am a Lecturer in the Department of Mathematics at the <a href="https://www.yor
 </p>
 
 <p>
-My research sits at the intersection of probability theory, stochastic analysis, rough path theory, and machine learning. I am particularly interested in the theoretical and algorithmic aspects of classical and singular stochastic partial differential equations, especially those emerging from problems in mathematical physics and fluid dynamics. In parallel, I apply stochastic optimal control, reinforcement learning, and rough path methods to quantitative finance, with the goal of developing data-driven models that more effectively capture the complexity of real-world markets and provide actionable insights for risk management, portfolio optimization, and decision-making.
+My research lies at the intersection of probability theory, stochastic analysis, rough path theory, and machine learning. I am particularly interested in the theoretical and algorithmic aspects of classical and singular stochastic partial differential equations, especially those emerging from problems in mathematical physics and fluid dynamics. In parallel, I apply stochastic optimal control, reinforcement learning, and rough path methods to quantitative finance, with the goal of developing data-driven models that more effectively capture the complexity of real-world markets and offer practical tools for risk management, portfolio optimization, and financial decision-making.
 </p>
 
 <p>
