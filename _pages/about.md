@@ -21,7 +21,7 @@ redirect_from:
 <div class="justified">
 
 <p>
-I am a Lecturer in the Department of Mathematics at the [University of York](https://www.york.ac.uk/maths/). 
+I am a Lecturer in the Department of Mathematics at the <a href="https://www.york.ac.uk/maths/" target="_blank">University of York</a>. 
 </p>
 
 <p>
