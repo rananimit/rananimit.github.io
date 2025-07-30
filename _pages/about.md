@@ -40,3 +40,12 @@ My research lies at the intersection of probability theory, stochastic analysis,
 I obtained an MSc in Mathematical Sciences from <a href="https://maths.iisertvm.ac.in/" target="_blank">IISER Thiruvananthapuram</a>, India, followed by a PhD in stochastic (geometric) PDEs at the University of York, UK, under the supervision of <a href="https://www.york.ac.uk/maths/people/zdzislaw-brzezniak/" target="_blank">Zdzisław Brzeźniak</a>. I subsequently held research associate positions at Universität Bielefeld, Germany, in the group of <a href="https://ekvv.uni-bielefeld.de/pers_publ/publ/PersonDetail.jsp?personId=106484011&lang=EN" target="_blank">Martina Hofmanová</a>, and later at Imperial College London, UK, in the group of <a href="https://www.hairer.org/" target="_blank">Martin Hairer</a>.</p> 
 
 </div>
+
+
+
+<div class="news-section">
+  <h3>📰 News</h3>
+  <ul>
+    <li><strong>July 2025</strong> – Gave a talk at the Stochastic PDEs conference in Berlin.</li>
+  </ul>
+</div>
