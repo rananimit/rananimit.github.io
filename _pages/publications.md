@@ -4,7 +4,16 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+<style>
+.content-container {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 0 20px;
+  box-sizing: border-box;
+}
+</style>
 
+<div class="content-container">
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
@@ -16,6 +25,8 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 --->
+</div>
+
 
 <ol reversed>
 <li><p>A. Goswami and N. Rana, A market resilient data-driven approach to option pricing, submitted, 2024. <a href="https://arxiv.org/abs/2409.08205">arxiv</a>
