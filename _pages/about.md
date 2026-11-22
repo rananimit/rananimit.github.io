@@ -53,4 +53,3 @@ I obtained an MSc in Mathematical Sciences from <a href="https://maths.iisertvm.
     <li><strong>July 2025</strong> – .</li>
   </ul>
 </div>
----
