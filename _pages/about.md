@@ -45,11 +45,3 @@ I obtained an MSc in Mathematical Sciences from <a href="https://maths.iisertvm.
 
 </div>
 
-
----
-<div class="news-section">
-  <h3>News</h3>
-  <ul>
-    <li><strong>July 2025</strong> – .</li>
-  </ul>
-</div>
